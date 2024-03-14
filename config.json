@@ -1,0 +1,15 @@
+{
+  "name": "Starlight",
+  "authors": ["Ategon@programming.dev"],
+  "description": "🌠 A star based theme for Sublinks",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "keywords": ["dark", "yellow", "stars"],
+  "repository": "https://github.com/sublinks/starlight",
+  "colors": {
+    "text": "#ffffff",
+    "sidebar": "@background > lighten",
+    "accentDark": "@accent > darken",
+    "accentLight": "@accent > lighten"
+  }
+}
