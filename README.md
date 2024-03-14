@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://github.com/sublinks/starlight/stargazers"><img src="https://img.shields.io/github/stars/sublinks/starlight?colorA=232634&colorB=e8a234&style=for-the-badge"></a>
-	<a href="https://github.com/sublinks/starlight/issues"><img src="https://img.shields.io/github/issues/sublinks/starlight?colorA=232634&colorB=45d09e&style=for-the-badge"></a>
+	<a href="https://github.com/sublinks/starlight/stargazers"><img src="https://img.shields.io/github/stars/sublinks/starlight?colorA=232634&colorB=fe974c&style=for-the-badge"></a>
+	<a href="https://github.com/sublinks/starlight/issues"><img src="https://img.shields.io/github/issues/sublinks/starlight?colorA=232634&colorB=25af93&style=for-the-badge"></a>
 	<a href="https://github.com/sublinks/starlight/contributors"><img src="https://img.shields.io/github/contributors/sublinks/starlight?colorA=232634&colorB=22b2c3&style=for-the-badge"></a>
   <a href="https://github.com/sublinks/starlight/releases"><img src="https://img.shields.io/github/release/sublinks/starlight?colorA=232634&colorB=177fa6&style=for-the-badge"></a>
 </p>
